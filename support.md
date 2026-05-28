@@ -71,7 +71,7 @@ Streaks break if you miss checking in on a habit for a full calendar day. You ca
 Yes, if you have a Streak Shield available. Tap **Use Shield** on the affected habit card within 24 hours of missing a check-in.
 
 **How do I delete a habit?**
-Go to **Habits → Edit** and swipe left on the habit to delete it.
+Go to **Habits → Edit** and select the trash icon next to the habit you want to delete.
 
 ---
 
