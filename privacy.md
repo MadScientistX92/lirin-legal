@@ -2,7 +2,7 @@
 
 **Last updated: May 10, 2026**
 
-LIRIN ("we", "our", or "us") is a wellness app developed by Madan Mohan Kumar Shantha. This Privacy Policy explains how we collect, use, and protect your information when you use the LIRIN iOS app.
+LIRIN ("we", "our", or "us") is a wellness app developed by Madan Mohan Kumar Shanthakumar. This Privacy Policy explains how we collect, use, and protect your information when you use the LIRIN iOS app.
 
 ---
 
@@ -60,7 +60,7 @@ When you scan a meal photo, the image is sent to our server and to Anthropic's A
 
 ## 3. Data Storage and Security
 
-- Your account data is stored on secure servers hosted by [Render.com](https://render.com) (United States).
+- Your account data is stored on secure servers hosted by [Render.com](https://render.com) (International Servers).
 - Health data synced from Apple HealthKit is stored in our database to generate your recovery score history.
 - We use HTTPS encryption for all data in transit.
 - We do not store your raw Apple Health data beyond what is needed for your recovery history.
